@@ -1,0 +1,5 @@
+Distance moved,Zone 1,Zone 1,Zone 1,Zone 2,Zone 2,Zone 2,Zone 3,Zone 3,Zone 3,Zone 4,Zone 4,Zone 4,Velocity
+Total,Duration,Frequency,Latency to first,Duration,Frequency,Latency to first,Duration,Frequency,Latency to first,Duration,Frequency,Latency to first,Mean
+cm,s,n,s,s,,s,s,n,s,s,n,s,cm/s
+414.710761,0.700701,2,0,33.233233,8,6.77344,4.004004,1,2.769436,1.868535,1,58.191524,6.994291
+318.324537,23.723724,2,0.567233,4.304304,3,0,7.707708,3,48.548548,0,0,0,5.344645
