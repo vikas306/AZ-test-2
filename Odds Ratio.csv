@@ -1,0 +1,7 @@
+APOE Allele,rs429358,rs7412,odds ratio
+?2/?2,TT,TT,0.26
+?2/?3,TT,TC,0.36
+?2/?4,TC,TC,1.38
+?3/?3,TT,CC,0.56
+?3/?4,TC,CC,2
+?4/?4,CC,CC,7.71
